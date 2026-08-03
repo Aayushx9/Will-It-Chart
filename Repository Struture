@@ -1,0 +1,24 @@
+will-it-chart/
+├── Will_It_Chart.ipynb              
+├── README.md                         
+├── requirements.txt                  
+├── .gitignore                        
+├── LICENSE                          
+└── assets/                           
+    ├── Columns_and_Descriptions.png
+    ├── Confusion_Matrix.png
+    ├── Dashboard_part_1.png through Dashboard_part_6.png (+ 5-2)
+    ├── Feature_Correlation_Matrix.png
+    ├── Feature_distributions.png
+    ├── Feature_importance.png
+    ├── Live_Song_Scorer.png
+    ├── Ready_dataset.png
+    ├── Roc_Curve_and_Model_Eval.png
+    ├── Roc_auc_crossvalidation.png
+    ├── Roc_auc_validation.png
+    ├── Shap_Summary_plot.png
+    ├── Song_Key_and_mode_DoMinorsDominate.png
+    ├── Three_surprising_insights.png
+    ├── Three_surprising_insights_Plots.png
+    ├── Train_test_split.png
+    └── spotify_tracks_dataset_Hface.png
